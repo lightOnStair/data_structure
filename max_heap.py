@@ -3,7 +3,7 @@ import traceback
 #For this assignment, you will be implementing a max-heap as a simple Python
 #list.  You don't need to create a separate heap_size variable, just use
 #.append every time you want to add things to the end of the list, or .pop()
-#to remove the last element of the list.
+#to remove the last element of the list. 
 
 
 #NOTE: max_heap_insert is a bit different than the textbook implementation
