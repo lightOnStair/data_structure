@@ -1,4 +1,4 @@
-class Map <Key,Value>
+class Map <Key,Value> 
 {
   private Key[] keys;
   private Value[] values;
