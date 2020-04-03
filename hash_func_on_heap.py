@@ -1,7 +1,7 @@
 import traceback, turtle, time
 
 #Enables the graphical display of the database
-#Set to False to disable
+#Set to False to disable 
 enable_turtle = True
 
 #Takes Database object database, and Robot object robot
