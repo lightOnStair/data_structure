@@ -1,4 +1,4 @@
-class PriorityQueue<Base>
+class PriorityQueue<Base> 
 {
   private class Node
   {
