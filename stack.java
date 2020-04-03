@@ -1,4 +1,4 @@
-class RunnyStack<Base>
+class RunnyStack<Base> 
 {
   private class Run
   {
