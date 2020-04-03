@@ -1,5 +1,5 @@
 class FamilyTree
-{
+{ 
   private class Node
   {
     private String name;
