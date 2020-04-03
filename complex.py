@@ -15,7 +15,7 @@ class Complex:
         if self.__imag == 0:
             return str(self.__real)
         if self.__imag<0:
-            return "{0} - {1}i".format(self.__real,-self.__imag)
+            return "{0} - {1}i".format(self.__real,-self.__imag) 
         return "{0} + {1}i".format(self.__real,self.__imag)
     def setReal(self,real):
         self.__real = real
