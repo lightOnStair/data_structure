@@ -1,6 +1,6 @@
 import turtle, time, traceback
 
-#Change this value to adjust the time between turtle actions in seconds
+#Change this value to adjust the time between turtle actions in seconds 
 draw_delay = 0.1
 
 #Set this to False to turn off turtle entirely.
