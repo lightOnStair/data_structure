@@ -1,17 +1,6 @@
 import traceback
 
-#For this assignment, you will be implementing a max-heap as a simple Python
-#list.  You don't need to create a separate heap_size variable, just use
-#.append every time you want to add things to the end of the list, or .pop()
-#to remove the last element of the list. 
 
-
-#NOTE: max_heap_insert is a bit different than the textbook implementation
-#Rather than taking as an argument a key, it takes as an argument the
-#Task object you want to input.  Since heap_increase_key still works
-#on a numerical key, you'll need to be careful that you're actually
-#putting a new Task into the heap and not just overwriting an existing
-#Task's priority number.
 
 #Takes as input a heap (list) of Task objects task_heap, and a Task object task.
 #Inserts task into the heap task_heap, while maintaining the
